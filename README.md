@@ -33,7 +33,7 @@ designed.
 ## Office Hours
 
 - Professor: TBA, Bloomberg 268
-- TA (Yuzong Chenc): TBA
+- TA (Yuzong Cheng): TBA
 
 ## Schedule
 
