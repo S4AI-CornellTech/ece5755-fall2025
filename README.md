@@ -18,7 +18,7 @@ designed.
 
 - Room: Bloomberg Center 61 (Cornell Tech)
 - Time: Mondays and Wednesdays at 4:20pm - 5:35pm
-- Please read the [syllabus](https://docs.google.com/document/d/1KOVxBbWcwsVbuoAC8NWIuc9fU-NF-6CvPUplaWrgDVk/edit)
+- Please read the [syllabus](https://docs.google.com/document/d/1c3XmxlrQVNDE0xnss6sSYF0FWYahS39ED0Aa_sZlrto/edit?tab=t.0)
 - [Canvas link](https://canvas.cornell.edu/courses/79802)
 - [Ed Discussions](https://edstem.org/us/join/rsaC57)
 
