@@ -39,8 +39,8 @@ designed.
 
 | Date   | Day | Topic                                        | Due |
 | ------ | --- | -------------------------------------        |     |
-| Aug 25 | Mon | [Introduction to Architecture and Systems]() |     |
-| Aug 27 | Wed | [Instruction Set Architectures]()            |     |
+| Aug 25 | Mon | [Introduction to Architecture and Systems](https://docs.google.com/presentation/d/1iWE0mlFB6MHS6uKCTPtrDbCzkv50LoAD/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true) |     |
+| Aug 27 | Wed | [Instruction Set Architectures](https://docs.google.com/presentation/d/1g17B--Wml53LKAZ3AtEccz1kb0Al1pFU/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)            |     |
 | Sep 1  | Mon | Labor day (No class)                         |     |
 | Sep 3  | Wed | [Processors]()                               |     |
 | Sep 8  | Mon | [Pipelined Processors]()                     |     |
