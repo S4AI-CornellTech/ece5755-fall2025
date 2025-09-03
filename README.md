@@ -37,36 +37,36 @@ designed.
 
 ## Schedule
 
-| Date   | Day | Topic                                        | Due |
-| ------ | --- | -------------------------------------        |     |
-| Aug 25 | Mon | [Introduction to Architecture and Systems](https://docs.google.com/presentation/d/1iWE0mlFB6MHS6uKCTPtrDbCzkv50LoAD/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true) |     |
-| Aug 27 | Wed | [Instruction Set Architectures](https://docs.google.com/presentation/d/1g17B--Wml53LKAZ3AtEccz1kb0Al1pFU/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)            |     |
-| Sep 1  | Mon | Labor day (No class)                         |     |
-| Sep 3  | Wed | [Processors]()                               |     |
-| Sep 8  | Mon | [Pipelined Processors]()                     |     |
-| Sep 10 | Wed | [Pipelined Processors 2]()                   |     |
-| Sep 15 | Mon | [Speculation]()                              |     |
-| Sep 17 | Wed | [Out of order execution]()                   |     |
-| Sep 22 | Mon | [Memory Hierarchy]()                         |     |
-| Sep 24 | Wed | [Caching I]()                                |     |
-| Sep 29 | Mon | [ML]()                                       |     |
-| Oct 1  | Wed | [Caching II]()                               |     |
-| Oct 6  | Mon | [Caching & Virtual Memory]()                 |     |
-| Oct 8  | Wed | Fall break (No class)                        |     |
-| Oct 13 | Mon | [Virtual Memory]()                           |     |
-| Oct 15 | Wed | [DRAM]()                                     |     |
-| Oct 20 | Mon | [Multi-core & Cache Coherence]()             |     |
-| Oct 22 | Mon | [Cache Coherence]()                          |     |
-| Oct 27 | Mon | [Memory Consistency]()                       |     |
-| Oct 29 | Wed | [Memory Consistency]()                       |     |
-| Nov 3  | Mon | [GPU's]()                                    |     |
-| Nov 5  | Wed | [GPU's & Heterogeneous Computing]()          |     |
-| Nov 10 | Mon | [Specialized Accelerators]()                 |     |
-| Nov 12 | Wed | [Specialized Accelerators]()                 |     |
-| Nov 17 | Mon | [System Design]()                            |     |
-| Nov 19 | Wed | [Datacenters]()                              |     |
-| Nov 24 | Mon |                                              |     |
-| Nov 26 | Wed | Thanksgiving (no class)                      |     |
-| Dec 1  | Mon | Group Presentations I                        |     |
-| Dec 3  | Wed | Group Presentations II                       |     |
-| Dec 8  | Mon | Group Presentations III                      |     |
+| Date   | Day | Topic                                                                                                                                                                                  | Due    |
+| ------ | --- | -------------------------------------                                                                                                                                                  |        |
+| Aug 25 | Mon | [Introduction to Architecture and Systems](https://docs.google.com/presentation/d/1iWE0mlFB6MHS6uKCTPtrDbCzkv50LoAD/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true) |        |
+| Aug 27 | Wed | [Instruction Set Architectures](https://docs.google.com/presentation/d/1g17B--Wml53LKAZ3AtEccz1kb0Al1pFU/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)            |        |
+| Sep 1  | Mon | Labor day (No class)                                                                                                                                                                   |        |
+| Sep 3  | Wed | [Processors](https://docs.google.com/presentation/d/111jzli5jXBckDM-ynguMXW2vv7xjHtaz/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                               |        |
+| Sep 8  | Mon | [Pipelined Processors]()                                                                                                                                                               |        |
+| Sep 10 | Wed | [Pipelined Processors 2]()                                                                                                                                                             | Quiz 1 |
+| Sep 15 | Mon | [Speculation]()                                                                                                                                                                        |        |
+| Sep 17 | Wed | [Out of order execution]()                                                                                                                                                             |        |
+| Sep 22 | Mon | [Memory Hierarchy]()                                                                                                                                                                   |        |
+| Sep 24 | Wed | [Caching I]()                                                                                                                                                                          |        |
+| Sep 29 | Mon | [ML]()                                                                                                                                                                                 |        |
+| Oct 1  | Wed | [Caching II]()                                                                                                                                                                         |        |
+| Oct 6  | Mon | [Caching & Virtual Memory]()                                                                                                                                                           |        |
+| Oct 8  | Wed | Fall break (No class)                                                                                                                                                                  |        |
+| Oct 13 | Mon | [Virtual Memory]()                                                                                                                                                                     |        |
+| Oct 15 | Wed | [DRAM]()                                                                                                                                                                               |        |
+| Oct 20 | Mon | [Multi-core & Cache Coherence]()                                                                                                                                                       |        |
+| Oct 22 | Mon | [Cache Coherence]()                                                                                                                                                                    |        |
+| Oct 27 | Mon | [Memory Consistency]()                                                                                                                                                                 |        |
+| Oct 29 | Wed | [Memory Consistency]()                                                                                                                                                                 |        |
+| Nov 3  | Mon | [GPU's]()                                                                                                                                                                              |        |
+| Nov 5  | Wed | [GPU's & Heterogeneous Computing]()                                                                                                                                                    |        |
+| Nov 10 | Mon | [Specialized Accelerators]()                                                                                                                                                           |        |
+| Nov 12 | Wed | [Specialized Accelerators]()                                                                                                                                                           |        |
+| Nov 17 | Mon | [System Design]()                                                                                                                                                                      |        |
+| Nov 19 | Wed | [Datacenters]()                                                                                                                                                                        |        |
+| Nov 24 | Mon |                                                                                                                                                                                        |        |
+| Nov 26 | Wed | Thanksgiving (no class)                                                                                                                                                                |        |
+| Dec 1  | Mon | Group Presentations I                                                                                                                                                                  |        |
+| Dec 3  | Wed | Group Presentations II                                                                                                                                                                 |        |
+| Dec 8  | Mon | Group Presentations III                                                                                                                                                                |        |
