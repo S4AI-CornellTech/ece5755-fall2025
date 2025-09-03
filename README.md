@@ -1,6 +1,5 @@
 # ECE 5755/CS 5754: Modern Computer Architecture and Systems (Fall 2025)
 
-
 ## Description
 
 This graduate level course is designed to provide a hardware-centric overview
@@ -32,8 +31,8 @@ designed.
 
 ## Office Hours
 
-- Professor: TBA, Bloomberg 268
-- TA (Yuzong Cheng): TBA
+- Professor: Mondays 3-4pm, Bloomberg 268
+- TA (Yuzong Cheng): Thursdays 11am-12pm, Master's Studio
 
 ## Schedule
 
