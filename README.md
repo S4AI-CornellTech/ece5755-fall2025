@@ -43,7 +43,7 @@ designed.
 | Sep 1  | Mon | Labor day (No class)                                                                                                                                                                   |        |
 | Sep 3  | Wed | [Processors](https://docs.google.com/presentation/d/111jzli5jXBckDM-ynguMXW2vv7xjHtaz/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                               |        |
 | Sep 8  | Mon | [Pipelined Processors](https://docs.google.com/presentation/d/11A1ZKK9QTY0eeHaSouj5OoJ-RDt5LyZK/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                     |        |
-| Sep 10 | Wed | [Pipelined Processors 2]()                                                                                                                                                             | Quiz 1 |
+| Sep 10 | Wed | [Pipelined Processors 2](https://docs.google.com/presentation/d/11A1ZKK9QTY0eeHaSouj5OoJ-RDt5LyZK/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                   | Quiz 1 |
 | Sep 15 | Mon | [Speculation]()                                                                                                                                                                        |        |
 | Sep 17 | Wed | [Out of order execution]()                                                                                                                                                             |        |
 | Sep 22 | Mon | [Memory Hierarchy]()                                                                                                                                                                   |        |
